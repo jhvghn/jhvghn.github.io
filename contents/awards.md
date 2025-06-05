@@ -1,13 +1,7 @@
-- National Scholarship of Graduate Student, 2024.
+- Provincial Third Prize in the National College Students Structural Design Competition.
 
-- First-prize Scholarship of CUMT, 2024.
+- National Excellence Award in the Million Students English Writing Contest.
 
-- First-prize Scholarship of CUMT, 2023.
+- National Second Prize in the National College Students IT Skills Competition (Cloud Computing and Big Data Challenge).
 
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- National Third Prize (Graduate Group) in the China Universities Big Data Challenge.

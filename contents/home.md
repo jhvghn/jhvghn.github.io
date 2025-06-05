@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I received my Master’s Degree in Data and Decision Analytics from the University of Southampton in 2024, under the supervision of Professor Voung Phan. I graduated with First Class Honours and received the Dean’s List Award for Outstanding Achievement. In 2025, I will begin my PhD in the School of Data Science at City University of Hong Kong, supervised by Professor Xiangyu Zhao.
 
 #### Email
-sli[at]cumt.edu.cn
+bl2y23@soton.ac.uk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Data Science, City University of Hong Kong, China, 2025—2029 (expected).\
+M.S., Data and Decision Analytics, University of Southampton, United Kingdom,  2023—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence, Computer Vision.
 
